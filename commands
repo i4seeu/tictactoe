@@ -1,0 +1,5 @@
+#creating a new project in django
+django-admin startproject tictactoe[name_of_project]
+
+#run the server
+python manage.py runserver
